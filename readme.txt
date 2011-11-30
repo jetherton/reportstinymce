@@ -1,9 +1,10 @@
 === About ===
 name: Report TinyMCE
-website: http://apps.ushahidi.com
+website: https://github.com/jetherton/reportstinymce
 description: Adds the Tiny MCE editor to the Report Description text area
 version: 1.0
 requires: 2.1
+tested up to: 2.1
 author: John Etherton
 author website: http://johnetherton.com
 
